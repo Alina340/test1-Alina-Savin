@@ -20,6 +20,8 @@ public class Ex8 {
                 break;
             case 18, 19, 20, 21, 22, 23:
                 System.out.println("Seara");
+            default:
+                System.out.println("zi invalida");
         }
     }
 }
